@@ -1,0 +1,622 @@
+{
+  "booklist": [
+  	{
+				"recommend": [{
+						"id":"001",
+	  		 		"avatarImg":"recomend.png",
+	  		 		"title":"神级全能高手",
+					  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一"
+	  		 	}],
+	  		"books": [{
+	  				"id":"002",
+				    "avatarImg":"cover.png",
+					  "title":"神级全能高手",
+					  "descript":"【都市武侠，热血江湖】豪门少帅，一代战神。豪门少帅，一代战神豪门少帅，啥？保护总裁？行，可以试试他！他，是全球各个组织的第一",
+					  "content":"第一章  魔帝重生,'邀月，你敢害我！'路政吼叫着，猛然起身，松软的大床顿时就剧烈摇晃。'儿子，你怎么了，有没有感觉好点？第一章  魔帝重生,'邀月，你敢害我！'路政吼叫着，猛然起身，松软的大床顿时就剧烈摇晃。'儿子，你怎么了，有没有感觉好点？'第一章  魔帝重生,'邀月，你敢害我！'路政吼叫着，猛然起身，松软的大床顿时就剧烈摇晃。'儿子，你怎么了，有没有感觉好点？''",
+					  "Author":"我吃馍馍",
+					  "classfiy":"都市",
+					  "fraction":"8.0",
+					  "wordNum":"140.0万字",
+					  "ratings":[{
+					  	"name":"李科",
+					  	"date":"1511759710899",
+					  	"stars":"10",
+					  	"rating":"很好看！"
+					  },{
+					  	"name":"赵思",
+					  	"date":"214154",
+					  	"stars":"8.2",
+					  	"rating":"一般般！"
+					  }],
+					  "otherBooks":[{
+					  	"id":"011",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高g手"
+					  },
+					  {
+					  	"id":"654",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高手g"
+					  },
+					  {
+					  	"id":"054",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高tr手"
+					  }],
+					  "recommendBooks":[{
+					  	"id":"021",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高手"
+					  },
+					  {
+					  	"id":"022",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高手"
+					  },
+					  {
+					  	"id":"023",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高手"
+					  }]
+				  },
+				  {
+						"id":"100",
+						"avatarImg":"cover.png",
+						"title":"哈弗商学院管理全书（共10册）",
+						"descript":"哈弗商学院MBA的案例教程，让你成为职业经理人!",
+						"content":"哈弗商学院MBA的案例教程，让你成为职业经理人!哈弗商学院MBA的案例教程，让你成为职业经理人!哈弗商学院MBA的案例教程，让你成为职业经理人!",
+						"Author":"哈弗商学院教程研究工作室",
+						"fraction":"8.0",
+					  "wordNum":"140.0万字",
+					   "ratings":[{
+					  	"name":"李科",
+					  	"date":"1511759710899",
+					  	"stars":"10",
+					  	"rating":"很好看！"
+					  },{
+					  	"name":"赵思",
+					  	"date":"214154",
+					  	"stars":"8.2",
+					  	"rating":"一般般！"
+					  }],
+					  "otherBooks":[{
+					  	"id":"011",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高g手"
+					  },
+					  {
+					  	"id":"654",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高手g"
+					  },
+					  {
+					  	"id":"054",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高tr手"
+					  }],
+					  "recommendBooks":[{
+					  	"id":"021",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高手"
+					  },
+					  {
+					  	"id":"022",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高手"
+					  },
+					  {
+					  	"id":"023",
+					  	"avatarImg":"cover.png",
+					  	"title":"神级全能高手"
+					  }]
+					},
+					{
+						"id":"101",
+						"avatarImg":"cover.png",
+						"title":"未来趋势预测精选（共3册）",
+						"descript":"让你看见未来，赢得未来!",
+						"Author":"【美】杰夫.豪 等"
+					},
+					{
+						"id":"102",
+						"avatarImg":"cover.png",
+						"title":"断层线",
+						"descript":"揭秘金融危机的最重黑手，诺尔经济学得主阿克洛夫、巴淑松等力荐!",
+						"Author":"【美】拉詹"
+					},
+					{
+						"id":"103",
+						"avatarImg":"cover.png",
+						"title":"哈弗商学院管理全书（共10册）",
+						"descript":"哈弗商学院MBA的案例教程，让你成为职业经理人!",
+						"Author":"哈弗商学院教程研究工作室"
+					},
+					{
+						"id":"104",
+						"avatarImg":"cover.png",
+						"title":"未来趋势预测精选（共3册）",
+						"descript":"让你看见未来，赢得未来!",
+						"Author":"【美】杰夫.豪 等"
+					},
+					{
+						"id":"105",
+						"avatarImg":"cover.png",
+						"title":"断层线",
+						"descript":"揭秘金融危机的最重黑手，诺尔经济学得主阿克洛夫、巴淑松等力荐!",
+						"Author":"【美】拉詹"
+					},{
+				  	"id":"003",
+				    "avatarImg":"cover.png",
+					  "title":"超级金钱帝国",
+					  "descript":"张伟出生1994年初，这一年，张伟跟着父母来到魔都摆地摊卖米。",
+					  "Author":"我吃馍馍",
+					  "classfiy":"军事",
+					  "fraction":""
+				  },{
+				  	"id":"004",
+				    "avatarImg":"cover.png",
+					  "title":"你离抑郁症还有多远",
+					  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+					  "Author":"我吃馍馍",
+					  "classfiy":"军事",
+					  "fraction":"9.0"
+				  },{
+				  	"id":"005",
+				    "avatarImg":"cover.png",
+					  "title":"你离抑郁症还有多远",
+					  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+					  "Author":"我吃馍馍",
+					  "classfiy":"军事",
+					  "fraction":"8.0"
+				  }
+				]
+  	},
+  	{
+  		 "recommend": [{
+  		 				"id":"006",
+		  		 		"avatarImg":"recomend.png",
+		  		 		"title":"神级全能高手",
+						  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一"
+		  		 	}],
+		  		"books": [{
+		  				"id":"007",
+					    "avatarImg":"cover.png",
+						  "title":"神级全能高手",
+						  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一",
+						  "Author":"我吃馍馍",
+						  "classfiy":"都市",
+						  "fraction":"8.0"
+					  },{
+					  	"id":"008",
+					    "avatarImg":"cover.png",
+						  "title":"超级金钱帝国",
+						  "descript":"张伟出生1994年初，这一年，张伟跟着父母来到魔都摆地摊卖米。",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":""
+					  },{
+					  	"id":"009",
+					    "avatarImg":"cover.png",
+						  "title":"你离抑郁症还有多远",
+						  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":"9.0"
+					  },{
+					  	"id":"010",
+					    "avatarImg":"cover.png",
+						  "title":"你离抑郁症还有多远",
+						  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":"8.0"
+					  }
+				 ]
+  	},
+  	{
+  		"recommend": [{
+  						"id":"012",	
+		  		 		"avatarImg":"recomend.png",
+		  		 		"title":"神级全能高手",
+						  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一"
+		  		 	}],
+		  		"books": [{
+		  				"id":"013",
+					    "avatarImg":"cover.png",
+						  "title":"神级全能高手",
+						  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一",
+						  "Author":"我吃馍馍",
+						  "classfiy":"都市",
+						  "fraction":"8.0"
+					  },{
+					  	"id":"014",
+					    "avatarImg":"cover.png",
+						  "title":"超级金钱帝国",
+						  "descript":"张伟出生1994年初，这一年，张伟跟着父母来到魔都摆地摊卖米。",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":""
+					  },{
+					  	"id":"015",
+					    "avatarImg":"cover.png",
+						  "title":"你离抑郁症还有多远",
+						  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":"9.0"
+					  },{
+					  	"id":"016",
+					    "avatarImg":"cover.png",
+						  "title":"你离抑郁症还有多远",
+						  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":"8.0"
+					  }
+					  ]
+  	},
+  	{
+  			"recommend": [{
+  						"id":"017",
+		  		 		"avatarImg":"recomend.png",
+		  		 		"title":"神级全能高手",
+						  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一"
+		  		 	}],
+		  		"books": [{
+		  				"id":"018",
+					    "avatarImg":"cover.png",
+						  "title":"神级全能高手",
+						  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一",
+						  "Author":"我吃馍馍",
+						  "classfiy":"都市",
+						  "fraction":"8.0"
+					  },{
+					  	"id":"019",
+					    "avatarImg":"cover.png",
+						  "title":"超级金钱帝国",
+						  "descript":"张伟出生1994年初，这一年，张伟跟着父母来到魔都摆地摊卖米。",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":""
+					  },{
+					  	"id":"020",
+					    "avatarImg":"cover.png",
+						  "title":"你离抑郁症还有多远",
+						  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":"9.0"
+					  },{
+					  	"id":"024",
+					    "avatarImg":"cover.png",
+						  "title":"你离抑郁症还有多远",
+						  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":"8.0"
+					  }
+					  ]
+  	},
+  	{
+  		"recommend": [{
+  						"id":"025",
+		  		 		"avatarImg":"recomend.png",
+		  		 		"title":"神级全能高手",
+						  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一"
+		  		 	}],
+		  		"books": [{
+		  				"id":"026",
+					    "avatarImg":"cover.png",
+						  "title":"神级全能高手",
+						  "descript":"啥？保护总裁？行，可以试试他！他，是全球各个组织的第一",
+						  "Author":"我吃馍馍",
+						  "classfiy":"都市",
+						  "fraction":"8.0"
+					  },{
+					  	"id":"027",
+					    "avatarImg":"cover.png",
+						  "title":"超级金钱帝国",
+						  "descript":"张伟出生1994年初，这一年，张伟跟着父母来到魔都摆地摊卖米。",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":""
+					  },{
+					  	"id":"028",
+					    "avatarImg":"cover.png",
+						  "title":"你离抑郁症还有多远",
+						  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":"9.0"
+					  },{
+					  	"id":"029",
+					    "avatarImg":"cover.png",
+						  "title":"你离抑郁症还有多远",
+						  "descript":"你离抑郁症还有多远你离抑郁症还有多远你离你离抑郁症还有多远你离抑郁症还有多远你离",
+						  "Author":"我吃馍馍",
+						  "classfiy":"军事",
+						  "fraction":"8.0"
+					  }
+					  ]
+  	}
+  ],
+  "bookClassFiy": [
+  	{
+  			"title": "男生",
+  			"classbooks":[
+  				{
+  					"id":"xuanhuan",
+  					"classFiy": "玄幻",
+  					"num": "2356",
+  					"imgsrc": "class.png",
+  					"booklist":[
+  						{
+  							"id":"100",
+  							"avatarImg":"cover.png",
+  							"title":"哈弗商学院管理全书（共10册）",
+  							"descript":"哈弗商学院MBA的案例教程，让你成为职业经理人!",
+  							"Author":"哈弗商学院教程研究工作室"
+  						},
+  						{
+  							"id":"101",
+  							"avatarImg":"cover.png",
+  							"title":"未来趋势预测精选（共3册）",
+  							"descript":"让你看见未来，赢得未来!",
+  							"Author":"【美】杰夫.豪 等"
+  						},
+  						{
+  							"id":"102",
+  							"avatarImg":"cover.png",
+  							"title":"断层线",
+  							"descript":"揭秘金融危机的最重黑手，诺尔经济学得主阿克洛夫、巴淑松等力荐!",
+  							"Author":"【美】拉詹"
+  						},
+  						{
+  							"id":"103",
+  							"avatarImg":"cover.png",
+  							"title":"哈弗商学院管理全书（共10册）",
+  							"descript":"哈弗商学院MBA的案例教程，让你成为职业经理人!",
+  							"Author":"哈弗商学院教程研究工作室"
+  						},
+  						{
+  							"id":"104",
+  							"avatarImg":"cover.png",
+  							"title":"未来趋势预测精选（共3册）",
+  							"descript":"让你看见未来，赢得未来!",
+  							"Author":"【美】杰夫.豪 等"
+  						},
+  						{
+  							"id":"105",
+  							"avatarImg":"cover.png",
+  							"title":"断层线",
+  							"descript":"揭秘金融危机的最重黑手，诺尔经济学得主阿克洛夫、巴淑松等力荐!",
+  							"Author":"【美】拉詹"
+  						}
+  					]
+  				},{
+  					"id":"qihuan",
+  					"classFiy": "奇幻",
+  					"num": "235",
+  					"imgsrc": "cover.png"
+  				},{
+  					"id":"wuxia",
+  					"classFiy": "武侠",
+  					"num": "654",
+  					"imgsrc": "cover.png"
+  				},{
+  					"id":"dushi",
+  					"classFiy": "都市",
+  					"num": "125",
+  					"imgsrc": "cover.png"
+  				},{
+  					"id":"xianxia",
+  					"classFiy": "仙侠",
+  					"num": "3622",
+  					"imgsrc": "class.png"
+  				},{
+  					"id":"histroy",
+  					"classFiy": "历史",
+  					"num": "51891",
+  					"imgsrc": "class.png"
+  				},{
+  					"id":"junshi",
+  					"classFiy": "军事",
+  					"num": "1522",
+  					"imgsrc": "class.png"
+  				}
+  			]
+  	},
+  	{
+  		 "title": "女生",
+  			"classbooks":[
+  				{
+  					"id":"xuanhuan",
+  					"classFiy": "玄幻",
+  					"num": "2356",
+  					"imgsrc": "class.png"
+  				},{
+  					"id":"qihuan",
+  					"classFiy": "奇幻",
+  					"num": "235",
+  					"imgsrc": "cover.png"
+  				},{
+  					"id":"wuxia",
+  					"classFiy": "武侠",
+  					"num": "654",
+  					"imgsrc": "cover.png"
+  				},{
+  					"id":"dushi",
+  					"classFiy": "都市",
+  					"num": "125",
+  					"imgsrc": "cover.png"
+  				},{
+  					"id":"xianxia",
+  					"classFiy": "仙侠",
+  					"num": "3622",
+  					"imgsrc": "class.png"
+  				},{
+  					"id":"histroy",
+  					"classFiy": "历史",
+  					"num": "51891",
+  					"imgsrc": "class.png"
+  				},{
+  					"id":"junshi",
+  					"classFiy": "军事",
+  					"num": "1522",
+  					"imgsrc": "class.png"
+  				}
+  			]
+  	},
+  	{
+  		 "title": "图书",
+  			"classbooks":[
+  				{
+  					"classFiy": "玄幻",
+  					"num": "2356",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "奇幻",
+  					"num": "235",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "武侠",
+  					"num": "654",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "都市",
+  					"num": "125",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "仙侠",
+  					"num": "3622",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "历史",
+  					"num": "51891",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "军事",
+  					"num": "1522",
+  					"imgsrc": "class.png"
+  				}
+  			]
+  	},
+  	{
+  		  "title": "漫画",
+  			"classbooks":[
+  				{
+  					"classFiy": "玄幻",
+  					"num": "2356",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "奇幻",
+  					"num": "235",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "武侠",
+  					"num": "654",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "都市",
+  					"num": "125",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "仙侠",
+  					"num": "3622",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "历史",
+  					"num": "51891",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "军事",
+  					"num": "1522",
+  					"imgsrc": "class.png"
+  				}
+  			]
+  	},
+  	{
+  	  	"title": "杂志",
+  			"classbooks":[
+  				{
+  					"classFiy": "玄幻",
+  					"num": "2356",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "奇幻",
+  					"num": "235",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "武侠",
+  					"num": "654",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "都市",
+  					"num": "125",
+  					"imgsrc": "cover.png"
+  				},{
+  					"classFiy": "仙侠",
+  					"num": "3622",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "历史",
+  					"num": "51891",
+  					"imgsrc": "class.png"
+  				},{
+  					"classFiy": "军事",
+  					"num": "1522",
+  					"imgsrc": "class.png"
+  				}
+  			]
+  	}
+  ],
+  "bookShelf": [
+  	{
+  		"id":"001",
+  		"avatarImg":"img.png",
+  		"title":"hello,校草大人",
+  		"Borrow":"true"
+  	},
+  	{
+  		"id":"002",
+  		"avatarImg":"cover.png",
+  		"title":"国民老公带回家",
+  		"reservation":"true"
+  	},
+  	{
+  		"id":"003",
+  		"avatarImg":"cover.png",
+  		"title":"纯情丫头火辣辣"
+  	},
+  	{
+  		"id":"004",
+  		"avatarImg":"cover.png",
+  		"title":"养个少主斗渣男"
+  	},
+  	{
+  		"id":"005",
+  		"avatarImg":"cover.png",
+  		"title":"放下一切去旅行"
+  	},
+  	{
+  		"id":"006",
+  		"avatarImg":"cover.png",
+  		"title":"何所冬暖，何所夏凉"
+  	},
+  	{
+  		"id":"007",
+  		"avatarImg":"cover.png",
+  		"title":"和喜欢的一切在一起"
+  	},
+  	{
+  		"id":"008",
+  		"avatarImg":"cover.png",
+  		"title":"养个少主斗渣男"
+  	},
+  	{
+  		"id":"009",
+  		"avatarImg":"cover.png",
+  		"title":"养个少主斗渣男"
+  	}
+  ]
+}
